@@ -1,0 +1,29 @@
+body {
+    background-color: powderblue;
+  }
+  .header {
+    color: white;
+    text-align: center;
+  }
+  .topnav {
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  /* Style the topnav links */
+  .topnav a {
+    
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: monospace;
+    font-size: medium;
+  }
+  
+  /* Change color on hover */
+  .topnav a:hover {
+    background-color: rgb(255, 255, 255);
+    color: black;
+  }
